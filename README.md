@@ -16,7 +16,7 @@ In this project we will be using a Slice of Profit and Loss account to answer a 
 
 # [Project 3: Categorical-Feature-Encoding](https://github.com/roesta07/Categorical-Feature-Encoding-Challenge)<br/>
 A kaggle submission
-<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/categorical-feature.jpeg?raw=true" height="400" class="inline"> </div>
+<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/categorical-feature.jpg?raw=true" height="400" class="inline"> </div>
 
 <br/>
 

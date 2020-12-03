@@ -6,4 +6,4 @@ In this project we will be using a Slice of Profit and Loss account to answer a 
 <img src="/src/img/business_analysis.jpg" width="750" height="250" class="inline"> 
 
 # [Project 2: Outlet Recommendation](https://github.com/roesta07/Business-Analysis-Template)
-<img src="/src/img/map_analysis-01.jpg" width="750" height="250" class="inline"> 
+<img src="/src/img/map_analysis-01.jpg" width="750" height="500" class="inline"> 

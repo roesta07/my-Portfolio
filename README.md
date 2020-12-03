@@ -1,3 +1,14 @@
+<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/profile.jpg?raw=true" height="100" class="inline"> </div>
+<br/>
+<br/>
+Rojan Shrestha
+ro.esta07@gmail.com
+<br/>
+<br/>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br/>
+<br/>
 ## Welcome to Profile
 Data Analysis, Data Science and Data Visualization
 
@@ -6,4 +17,8 @@ In this project we will be using a Slice of Profit and Loss account to answer a 
 <div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/business_analysis.jpg?raw=true" width="750" height="250" class="inline"> </div>
 
 # [Project 2: Outlet Recommendation](https://github.com/roesta07/Outlet-Recommendation)
-<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/map_analysis-01.jpg?raw=true" height="500" class="inline"> </div>
+<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/map_analysis-01.jpg?raw=true" height="400" class="inline"> </div>
+
+
+<br/>
+

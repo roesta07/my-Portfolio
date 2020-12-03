@@ -14,6 +14,9 @@ In this project we will be using a Slice of Profit and Loss account to answer a 
 # [Project 2: Outlet Recommendation](https://github.com/roesta07/Outlet-Recommendation)
 <div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/map_analysis-01.jpg?raw=true" height="400" class="inline"> </div>
 
+# [Project 3: Categorical-Feature-Encoding](https://github.com/roesta07/Categorical-Feature-Encoding-Challenge)<br/>
+A kaggle submission
+<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/categorical-feature.jpeg?raw=true" height="400" class="inline"> </div>
 
 <br/>
 

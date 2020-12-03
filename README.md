@@ -1,11 +1,6 @@
 <div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/profile.jpeg?raw=true" height="100" class="inline"> </div>
-<br/>
-<br/>
 Rojan Shrestha<br/>
-ro.esta07@gmail.com
-<br/>
-<br/>
-
+ro.esta07@gmail.com<br/>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br/>
 <br/>

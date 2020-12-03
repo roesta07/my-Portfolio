@@ -1,5 +1,5 @@
 ## Welcome to Profile
-My portfolio includes projects of Data Analysis, Data Science and Data Visualization
+Data Analysis, Data Science and Data Visualization
 
 # [Project : Business Analysis](https://github.com/roesta07/Business-Analysis-Template)
 In this project we will be using a Slice of Profit and Loss account to answer a business question; weather our marketing driving profit or is it our innovation in product and service? We will be using Bayesian Statistics for this project.

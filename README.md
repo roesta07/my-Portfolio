@@ -1,7 +1,7 @@
-<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/profile.jpg?raw=true" height="100" class="inline"> </div>
+<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/profile.jpeg?raw=true" height="100" class="inline"> </div>
 <br/>
 <br/>
-Rojan Shrestha
+Rojan Shrestha<br/>
 ro.esta07@gmail.com
 <br/>
 <br/>

@@ -1,7 +1,7 @@
 <div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/profile.jpeg?raw=true" height="100" class="inline"> </div>
 Rojan Shrestha<br/>
 ro.esta07@gmail.com<br/>
-Data Analysis, Data Science and Data Visualization<br/>
+Quantitative Analysis, Data Science and Data Visualization<br/>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br/>
 <br/>

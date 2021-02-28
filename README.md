@@ -9,7 +9,7 @@ Data Analysis, Data Science and Data Visualization<br/>
 
 # [Project 1: A-simple-Business-Question](https://github.com/roesta07/A-simple-Business-Question)
 In this project we will be using a Slice of Profit and Loss account to answer a business question; weather our marketing driving profit or is it our innovation in product and service? We will be using Bayesian Statistics for this project.
-<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/business_analysis.jpg?raw=true" width="1300"  class="inline"> </div>
+<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/business_analysis.png?raw=true" width="1300"  class="inline"> </div>
 
 # [Project 2: How Business Strategies can create a Bias](https://github.com/roesta07/How-Business-Strategies-can-create-bias/blob/main/README.md)
 *Keywords: Causal Model, Directed Acyclic Graphs(DAG), Collider Bias, Bayesian Statistics, Python PYMC3*<br/>

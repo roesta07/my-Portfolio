@@ -2,8 +2,7 @@
 Rojan Shrestha<br/>
 ro.esta07@gmail.com<br/>
 Data Analysis, Data Science and Data Visualization<br/>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br/>
+------------------------------
 <br/>
 *(This page may not be responsive to Phones)*
 

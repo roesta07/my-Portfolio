@@ -5,7 +5,7 @@ Data Analysis, Data Science and Data Visualization<br/>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br/>
 <br/>
-## Welcome to Profile<br/>
+*(This page may not be responsive to Phones)*
 
 # [Project 1: A-simple-Business-Question](https://github.com/roesta07/A-simple-Business-Question)
 In this project we will be using a Slice of Profit and Loss account to answer a business question; weather our marketing driving profit or is it our innovation in product and service? We will be using Bayesian Statistics for this project.

@@ -7,6 +7,7 @@ Data Analysis, Data Science and Data Visualization<br/>
 *(This page may not be responsive to Phones)*
 
 # [Project 1: A-simple-Business-Question](https://github.com/roesta07/A-simple-Business-Question)
+*Keywords: Causal Model, Directed Acyclic Graphs(DAG),Spurious Association, Bayesian Statistics, Python PYMC3*<br/>
 In this project we will be using a Slice of Profit and Loss account to answer a business question; weather our marketing driving profit or is it our innovation in product and service? We will be using Bayesian Statistics for this project.
 <div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/business_analysis.png?raw=true" width="820"  class="inline"> </div>
 
@@ -18,7 +19,12 @@ A Business has to make a lot of strategies thus increasing the chance of biased 
 # [Project 3: Outlet Recommendation](https://github.com/roesta07/Outlet-Recommendation)
 <div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/map_analysis-01.jpg?raw=true" height="400" class="inline"> </div>
 
-# [Project 4: Categorical-Feature-Encoding](https://github.com/roesta07/Categorical-Feature-Encoding-Challenge)<br/>
+# [Project 4: Sampling from MCMC using Python](https://github.com/roesta07/Notes/blob/main/MCMC_Python.ipynb)
+*keywords: Python,Metropolis-Hasting*<br>
+A simple case fo Approximating unknown mean and sigma of a Distribution. Also, a Note to self about how a MCMC sampler works inside Black Box.<br>
+<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/random_walk.png?raw=true" height="400" class="inline"> </div>
+
+# [Project 5: Categorical-Feature-Encoding](https://github.com/roesta07/Categorical-Feature-Encoding-Challenge)<br/>
 A kaggle submission
 <div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/categorical_feature.jpg?raw=true" width="700" class="inline"> </div>
 

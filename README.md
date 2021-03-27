@@ -22,7 +22,7 @@ A Business has to make a lot of strategies thus increasing the chance of biased 
 # [Project 4: Sampling from MCMC using Python](https://github.com/roesta07/Notes/blob/main/MCMC_Python.ipynb)
 *keywords: Python,Metropolis-Hasting*<br>
 A simple case fo Approximating unknown mean and sigma of a Distribution. Also, a Note to self about how a MCMC sampler works inside Black Box.<br>
-<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/random_walk.png?raw=true" height="400" class="inline"> </div>
+<div><img src="https://github.com/roesta07/my-Portfolio/blob/main/src/img/random_walk.PNG?raw=true" height="400" class="inline"> </div>
 
 # [Project 5: Categorical-Feature-Encoding](https://github.com/roesta07/Categorical-Feature-Encoding-Challenge)<br/>
 A kaggle submission

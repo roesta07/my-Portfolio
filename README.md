@@ -1,7 +1,7 @@
 <div><img src="src/img/profile_1.jpg?raw=true" height="100" class="inline"> </div>
 Rojan Shrestha<br/>
 ro.esta07@gmail.com<br/>
-Computational Statistics, Bayesian Statistics,  , Business Science and Data Engineering<br/>
+Computational Statistics, Bayesian Statistics, Business Science and Data Engineering<br/>
 ------------------------------
 <br/>
 *(This page may not be responsive to Phones)*
